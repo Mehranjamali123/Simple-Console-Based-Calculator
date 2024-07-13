@@ -1,0 +1,7 @@
+F:\3rd Sem\calculator\calculator\bin\Debug\calculator.exe.config
+F:\3rd Sem\calculator\calculator\bin\Debug\calculator.exe
+F:\3rd Sem\calculator\calculator\bin\Debug\calculator.pdb
+F:\3rd Sem\calculator\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+F:\3rd Sem\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+F:\3rd Sem\calculator\calculator\obj\Debug\calculator.exe
+F:\3rd Sem\calculator\calculator\obj\Debug\calculator.pdb
